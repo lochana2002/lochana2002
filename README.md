@@ -1,4 +1,4 @@
-## Hi there 👋 I am Lochana Thathsarani Ehelapitiya, an undergraduate at NSBM Green University, currently pursuing a Bachelor’s degree in Software Engineering. I have a strong interest in Web Development and UI/UX Design, and I'm continuously working to improve my skills in these areas. I'm also eager to expand my knowledge in DevOps and Cloud Computing as I grow in my career.
+## Hi there👋, I am Lochana Thathsarani Ehelapitiya 😊, an undergraduate student at NSBM Green University, currently pursuing a Bachelor’s degree in Software Engineering. I have a strong interest in Web Development and UI/UX Design, and I am continuously working to improve my skills in these areas. I am also eager to expand my knowledge in DevOps and Cloud Computing as I grow in my career.
 
 <!--
 **lochana2002/lochana2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
