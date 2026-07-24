@@ -1,4 +1,4 @@
-## Hi there👋, I am Lochana Thathsarani Ehelapitiya 😊, an undergraduate student at NSBM Green University, currently pursuing a BSc(Hons) in Software Engineering degree. I have a strong interest in Full Stack Web Development and UI/UX Design, and I am continuously working to improve my skills in these areas. I am also eager to expand my knowledge in DevOps and Cloud Computing as I grow in my career.
+## Hi there👋, I am Lochana Thathsarani Ehelapitiya 😊, an undergraduate student at NSBM Green University, currently pursuing a BSc(Hons) in Software Engineering degree. I have a strong interest in Full Stack Development through modern development practices and effective UI/UX design. , and I am continuously working to improve my skills in these areas. I am also eager to expand my knowledge in DevOps and Cloud Computing as I grow in my career.
 
 <!--
 **lochana2002/lochana2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
